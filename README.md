@@ -1,1 +1,2 @@
-# a_js_clock
+## A simple digital clock using vannila js.
+### Preview
